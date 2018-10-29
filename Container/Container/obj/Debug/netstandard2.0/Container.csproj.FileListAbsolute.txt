@@ -1,0 +1,9 @@
+c:\users\vlad\Source\Repos\Container\Container\bin\Debug\netstandard2.0\Container.deps.json
+c:\users\vlad\Source\Repos\Container\Container\bin\Debug\netstandard2.0\Container.dll
+c:\users\vlad\Source\Repos\Container\Container\bin\Debug\netstandard2.0\Container.pdb
+c:\users\vlad\Source\Repos\Container\Container\obj\Debug\netstandard2.0\Container.csprojAssemblyReference.cache
+c:\users\vlad\Source\Repos\Container\Container\obj\Debug\netstandard2.0\Container.csproj.CoreCompileInputs.cache
+c:\users\vlad\Source\Repos\Container\Container\obj\Debug\netstandard2.0\Container.AssemblyInfoInputs.cache
+c:\users\vlad\Source\Repos\Container\Container\obj\Debug\netstandard2.0\Container.AssemblyInfo.cs
+c:\users\vlad\Source\Repos\Container\Container\obj\Debug\netstandard2.0\Container.dll
+c:\users\vlad\Source\Repos\Container\Container\obj\Debug\netstandard2.0\Container.pdb

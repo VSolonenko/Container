@@ -1,0 +1,17 @@
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\ContainerUnitTest.deps.json
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\ContainerUnitTest.runtimeconfig.json
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\ContainerUnitTest.runtimeconfig.dev.json
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\ContainerUnitTest.dll
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\ContainerUnitTest.pdb
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\Container.dll
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\bin\Debug\netcoreapp2.0\Container.pdb
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\obj\Debug\netcoreapp2.0\ContainerUnitTest.csprojAssemblyReference.cache
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\obj\Debug\netcoreapp2.0\ContainerUnitTest.csproj.CoreCompileInputs.cache
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\obj\Debug\netcoreapp2.0\ContainerUnitTest.AssemblyInfoInputs.cache
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\obj\Debug\netcoreapp2.0\ContainerUnitTest.AssemblyInfo.cs
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\obj\Debug\netcoreapp2.0\ContainerUnitTest.csproj.CopyComplete
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\obj\Debug\netcoreapp2.0\ContainerUnitTest.dll
+c:\users\vlad\Source\Repos\Container\ContainerUnitTest\obj\Debug\netcoreapp2.0\ContainerUnitTest.pdb
